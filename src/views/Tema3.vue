@@ -199,7 +199,7 @@
               p.mb-0 Explica las principales funcionalidades del sistema y el contexto en el que será utilizado.
           .row(numero="3" titulo="Requisitos para el uso del sistema")
             .col-12.mb-4.mb-md-0
-              p.mb-0 Describe las condiciones técnicas necesarias para utilizar el sistema, como hardware, <em>software</em> o configuraciones específicas.
+              p.mb-0 Describe las condiciones técnicas necesarias para utilizar el sistema, como <em>hardware</em>, <em>software</em> o configuraciones específicas.
           .row(numero="4" titulo="Acceso al sistema")
             .col-12.mb-4.mb-md-0
               p.mb-0 Indica los procedimientos para ingresar al sistema, incluyendo autenticación o creación de usuarios.

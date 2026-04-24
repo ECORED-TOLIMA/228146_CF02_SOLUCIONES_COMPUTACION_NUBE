@@ -229,10 +229,10 @@
           .row(numero="2" titulo="Criterios de aceptación")
             .col-12.mb-4.mb-md-0
               p.mb-0 Son condiciones específicas que deben cumplirse para considerar que una historia de usuario ha sido implementada correctamente. Estos criterios permiten validar que la funcionalidad desarrollada responde a las necesidades definidas por el usuario.
-          .row(numero="3" titulo="Product <em>backlog</em>")
+          .row(numero="3" titulo="<em>Product backlog</em>")
             .col-12.mb-4.mb-md-0
               p.mb-0 Es una lista priorizada de todos los requisitos, funcionalidades, mejoras o correcciones que se desean incorporar en el sistema. Este listado se actualiza de manera continua a lo largo del proyecto y sirve como guía para la planificación del trabajo del equipo de desarrollo.
-          .row(numero="4" titulo="Sprint <em>backlog</em>")
+          .row(numero="4" titulo="<em>Sprint backlog</em>")
             .col-12.mb-4.mb-md-0
               p.mb-0 Contiene el conjunto de historias de usuario o tareas que el equipo se compromete a desarrollar durante un ciclo de trabajo corto denominado sprint. Este <em>backlog</em> se define al inicio de cada iteración.
           .row(numero="5" titulo="Tableros de seguimiento del trabajo")
