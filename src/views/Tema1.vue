@@ -68,7 +68,7 @@
         p.mb-3(data-aos="fade-down") En el desarrollo de <em>software</em>, no todos los requisitos tienen el mismo nivel de importancia. Algunos son esenciales para el funcionamiento del sistema, mientras que otros representan mejoras o funcionalidades adicionales. Por esta razón, la priorización facilita la toma de decisiones cuando existen limitaciones de tiempo, presupuesto o recursos técnicos.
         .cajon.cajon.C02.color-secundario.px-4.py-3.mb-0
           p.mb-0(data-aos="fade-down") La priorización de requisitos se realiza generalmente con la participación de diferentes actores del proyecto, como usuarios, clientes, analistas y equipo de desarrollo, quienes evalúan la importancia de cada requisito según su impacto en el negocio, el valor que aporta al usuario y la viabilidad de implementación.
-    p.mb-4.text-center(data-aos="fade-down") Entre los criterios que suelen utilizarse para priorizar requisitos se encuentran:
+    p.mb-4(data-aos="fade-down") Entre los criterios que suelen utilizarse para priorizar requisitos se encuentran:
     .row.justify-content-center.align-items-center.mb-4(data-aos="flip-up")
       SlyderF.color-acento-botones(columnas="col-lg-6 col-xl-4")
         .tarjeta.tarjeta--C02.p-4
@@ -115,13 +115,13 @@
                 th(data-aos="fade-down")(style= "width: 80%") Descripción
             tbody
               tr
-                td.text-bold(data-aos="fade-down")(style="background-color: #F0F8FF") Alta
+                td(data-aos="fade-down")(style="background-color: #F0F8FF") Alta
                 td(data-aos="fade-down")(style="background-color: #F0F8FF") Requisitos indispensables para el funcionamiento del sistema. Deben implementarse en las primeras etapas del desarrollo.
               tr
-                td.text-bold(data-aos="fade-down") Media
+                td(data-aos="fade-down") Media
                 td(data-aos="fade-down") Requisitos importantes que aportan valor al sistema, pero que pueden desarrollarse después de los requisitos críticos.
               tr
-                td.text-bold(data-aos="fade-down")(style="background-color: #F0F8FF") Baja
+                td(data-aos="fade-down")(style="background-color: #F0F8FF") Baja
                 td(data-aos="fade-down")(style="background-color: #F0F8FF") Requisitos opcionales o mejoras que pueden incorporarse en futuras versiones del sistema.
     p.mb-0(data-aos="fade-down") La correcta priorización de requisitos permite planificar de manera más eficiente el desarrollo del <em>software</em>, optimizar el uso de los recursos disponibles y asegurar que las funcionalidades más importantes del sistema se implementen en las primeras etapas del proyecto.
     separador
@@ -136,7 +136,7 @@
         p.mb-2(data-aos="fade-down") La trazabilidad facilita el seguimiento de los requisitos desde su origen hasta su implementación final en el sistema. De esta manera, es posible identificar cómo cada requisito se relaciona con actividades de diseño, desarrollo, pruebas y validación. Esto permite verificar que ningún requisito sea omitido y que todas las funcionalidades del sistema correspondan a necesidades previamente definidas.
         .cajon.cajon.C01.color-primario.px-4.py-3.mb-4
           p.mb-0(data-aos="fade-down") Además, la matriz de trazabilidad resulta útil para gestionar cambios en los requisitos. Cuando se modifica o se elimina un requisito, la matriz permite identificar rápidamente qué componentes del sistema podrían verse afectados, lo que contribuye a reducir errores y facilitar la toma de decisiones durante el desarrollo.
-    p.mb-4.text-center(data-aos="fade-down") Entre los principales beneficios de utilizar matrices de trazabilidad se encuentran:
+    p.mb-4(data-aos="fade-down") Entre los principales beneficios de utilizar matrices de trazabilidad se encuentran:
     .row.justify-content-center.align-items-strench.mb-4.g-0
       .col-lg-7.col-12.order-lg-1.order-2
         .cajon.C02.p-4.d-flex.h-100.align-items-center

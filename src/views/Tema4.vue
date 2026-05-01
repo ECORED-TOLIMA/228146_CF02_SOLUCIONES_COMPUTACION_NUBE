@@ -231,22 +231,22 @@
                 th(data-aos="fade-down")(style= "width: 80%") Descripción
             tbody
               tr
-                td.text-bold(data-aos="fade-down")(style="background-color: #F0F8FF") Gestión estructurada de requisitos
+                td(data-aos="fade-down")(style="background-color: #F0F8FF") Gestión estructurada de requisitos
                 td(data-aos="fade-down")(style="background-color: #F0F8FF") Permite registrar, organizar y clasificar los requisitos funcionales y no funcionales del sistema de forma ordenada.
               tr
-                td.text-bold(data-aos="fade-down") Trazabilidad
+                td(data-aos="fade-down") Trazabilidad
                 td(data-aos="fade-down") Posibilita relacionar los requisitos con otros elementos del proyecto como casos de uso, diseño, desarrollo y pruebas.
               tr
-                td.text-bold(data-aos="fade-down")(style="background-color: #F0F8FF") Control de versiones
+                td(data-aos="fade-down")(style="background-color: #F0F8FF") Control de versiones
                 td(data-aos="fade-down")(style="background-color: #F0F8FF") Permite mantener un historial de cambios realizados en los requisitos a lo largo del proyecto.
               tr
-                td.text-bold(data-aos="fade-down") Gestión de cambios
+                td(data-aos="fade-down") Gestión de cambios
                 td(data-aos="fade-down") Facilita registrar, evaluar y aprobar modificaciones en los requisitos del sistema.
               tr
-                td.text-bold(data-aos="fade-down")(style="background-color: #F0F8FF") Colaboración entre equipos
+                td(data-aos="fade-down")(style="background-color: #F0F8FF") Colaboración entre equipos
                 td(data-aos="fade-down")(style="background-color: #F0F8FF") Permite que diferentes miembros del proyecto participen en la revisión, actualización y validación de los requisitos.
               tr
-                td.text-bold(data-aos="fade-down") Generación de reportes
+                td(data-aos="fade-down") Generación de reportes
                 td(data-aos="fade-down") Apoya el seguimiento del avance del proyecto mediante informes que permiten analizar el estado de los requisitos.
     p.mb-0(data-aos="fade-down") El uso de estas herramientas contribuye a mejorar la organización de la información del proyecto, fortalecer la comunicación entre los participantes y garantizar que los requisitos del sistema se gestionen de manera adecuada durante todo el ciclo de vida del desarrollo del <em>software</em>.
     separador

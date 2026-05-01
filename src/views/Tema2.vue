@@ -26,11 +26,11 @@
     .row.justify-content-center.align-items-stretch.mb-4.g-0
       .col-lg-7.col-12.order-lg-2.order-2
         .cajon.C01.p-4.h-100.w-100
-          .row.mb-0
-            .col-lg-2.d-none.d-lg-block
+          .row.mb-2
+            .col-lg-3.d-none.d-lg-block
               figure
                 img(src='@/assets/curso/tema2/img04.svg', alt='Imagen decorativa')
-            .col-lg-10.col-12
+            .col-lg-9.col-12
               p.mb-0 Los estándares internacionales para la especificación de requisitos establecen lineamientos y buenas prácticas que orientan la forma en que deben documentarse los requisitos de un sistema de <em>software</em>. Su objetivo es garantizar que la información sea clara, completa, consistente y comprensible para todos los actores involucrados en el desarrollo del proyecto.
           p.mb-0 Estos estándares proporcionan estructuras y criterios que facilitan la organización de los requisitos dentro de documentos formales, evitando ambigüedades y mejorando la comunicación entre analistas, desarrolladores, clientes y usuarios. Asimismo, permiten asegurar la calidad de la documentación y facilitar actividades posteriores como el diseño, la implementación, las pruebas y el mantenimiento del sistema.
       .col-lg-5.col-8.col-md-6.order-lg-1.order-1.mb-lg-0.mb-4

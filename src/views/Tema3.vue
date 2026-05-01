@@ -187,7 +187,7 @@
       .col.col-lg-10.col-12
         .cajon.cajon.C02.color-secundario.px-4.py-3
           p.mb-0(data-aos="fade-down") Además, el manual de usuario contribuye a mejorar la comprensión del sistema, ya que traduce los requisitos técnicos en instrucciones claras y comprensibles para los usuarios finales, permitiendo confirmar que las funcionalidades del sistema son intuitivas, coherentes y adecuadas para su contexto de uso.
-    p.text-center.mb-4(data-aos="fade-down") En general, un manual de usuario suele organizarse en las siguientes secciones:
+    p.mb-4(data-aos="fade-down") En general, un manual de usuario suele organizarse en las siguientes secciones:
     .row.justify-content-center.align-items-center.mb-4(data-aos="flip-up")
       .col-lg-6.col-12.mb-md-0.order-lg-1.order-2.mb-lg-0
         LineaTiempoD.color-acento-botones.especial
