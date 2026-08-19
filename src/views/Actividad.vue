@@ -55,7 +55,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con el análisis, la especificación, la validación y la gestión de requisitos de <em>software</em>.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con el análisis, la especificación, la validación y la gestión de requisitos de software.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -76,7 +76,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con el análisis, la especificación, la validación y la gestión de requisitos de <em>software</em>.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con el análisis, la especificación, la validación y la gestión de requisitos de software.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -105,7 +105,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con el análisis, la especificación, la validación y la gestión de requisitos de <em>software</em>.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con el análisis, la especificación, la validación y la gestión de requisitos de software.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -135,7 +135,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con el análisis, la especificación, la validación y la gestión de requisitos de <em>software</em>.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con el análisis, la especificación, la validación y la gestión de requisitos de software.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -167,7 +167,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con el análisis, la especificación, la validación y la gestión de requisitos de <em>software</em>.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con el análisis, la especificación, la validación y la gestión de requisitos de software.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -197,7 +197,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con el análisis, la especificación, la validación y la gestión de requisitos de <em>software</em>.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con el análisis, la especificación, la validación y la gestión de requisitos de software.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -214,7 +214,7 @@ export default {
             { id: 'd', texto: 'ISO 14001', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con el análisis, la especificación, la validación y la gestión de requisitos de <em>software</em>.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con el análisis, la especificación, la validación y la gestión de requisitos de software.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -243,7 +243,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con el análisis, la especificación, la validación y la gestión de requisitos de <em>software</em>.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con el análisis, la especificación, la validación y la gestión de requisitos de software.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -272,7 +272,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con el análisis, la especificación, la validación y la gestión de requisitos de <em>software</em>.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con el análisis, la especificación, la validación y la gestión de requisitos de software.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -289,7 +289,7 @@ export default {
             { id: 'd', texto: 'Historias de usuario.', esCorrecta: true },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con el análisis, la especificación, la validación y la gestión de requisitos de <em>software</em>.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con el análisis, la especificación, la validación y la gestión de requisitos de software.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -314,7 +314,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con el análisis, la especificación, la validación y la gestión de requisitos de <em>software</em>.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con el análisis, la especificación, la validación y la gestión de requisitos de software.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -339,7 +339,7 @@ export default {
             { id: 'd', texto: 'No necesita documentación.', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con el análisis, la especificación, la validación y la gestión de requisitos de <em>software</em>.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con el análisis, la especificación, la validación y la gestión de requisitos de software.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -360,7 +360,7 @@ export default {
             { id: 'd', texto: 'Ejecución del servidor.', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con el análisis, la especificación, la validación y la gestión de requisitos de <em>software</em>.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con el análisis, la especificación, la validación y la gestión de requisitos de software.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -393,7 +393,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con el análisis, la especificación, la validación y la gestión de requisitos de <em>software</em>.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con el análisis, la especificación, la validación y la gestión de requisitos de software.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -427,7 +427,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con el análisis, la especificación, la validación y la gestión de requisitos de <em>software</em>.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con el análisis, la especificación, la validación y la gestión de requisitos de software.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -460,7 +460,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con el análisis, la especificación, la validación y la gestión de requisitos de <em>software</em>.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con el análisis, la especificación, la validación y la gestión de requisitos de software.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -481,7 +481,7 @@ export default {
             { id: 'd', texto: 'Pruebas unitarias.', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con el análisis, la especificación, la validación y la gestión de requisitos de <em>software</em>.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con el análisis, la especificación, la validación y la gestión de requisitos de software.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -514,7 +514,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con el análisis, la especificación, la validación y la gestión de requisitos de <em>software</em>.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con el análisis, la especificación, la validación y la gestión de requisitos de software.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -538,7 +538,7 @@ export default {
             },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con el análisis, la especificación, la validación y la gestión de requisitos de <em>software</em>.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con el análisis, la especificación, la validación y la gestión de requisitos de software.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
@@ -560,7 +560,7 @@ export default {
             { id: 'd', texto: 'La factura del proyecto.', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con el análisis, la especificación, la validación y la gestión de requisitos de <em>software</em>.',
+            '¡Excelente trabajo! Se evidencia un buen dominio de los conceptos relacionados con el análisis, la especificación, la validación y la gestión de requisitos de software.',
           mensaje_incorrecto:
             'Revise nuevamente el contenido del componente formativo.',
         },
